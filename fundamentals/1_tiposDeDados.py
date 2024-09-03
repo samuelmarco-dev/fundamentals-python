@@ -31,7 +31,7 @@ aluno = {
 # Set: Uma coleção não ordenada de elementos únicos.
 vogais = {"a", "e", "i", "o", "u"}
 
-# Frozenset: Um set imutável.
+# Frozenset: Um set (coleção) imutável.
 consoantes = frozenset({"b", "c", "d", "f", "g"})
 
 # Bytes: Uma sequência imutável de valores de byte (0-255).
